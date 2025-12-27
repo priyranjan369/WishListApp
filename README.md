@@ -49,7 +49,6 @@ Repository
 Room Database (DAO + Entity)
 
 📂 Project Structure
-com.example.wishlistapp
 │
 ├── data
 │   ├── entity
@@ -65,8 +64,6 @@ com.example.wishlistapp
 └── MainActivity.kt
 
 ▶️ How to Run the App
-
-
 
 Open the project in Android Studio
 
@@ -88,6 +85,6 @@ Structuring a scalable Android project
 
 📄 License
 
-This project is open-source and available under the MIT License.
+This project is open-source 
 
 ⭐ If you find this project useful, please star the repository!
